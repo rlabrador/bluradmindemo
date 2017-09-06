@@ -1,5 +1,5 @@
 {
-  "name": "demonodeclever",
+  "name": "bluradmindemo",
   "version": "0.0.1",
   "devDependencies": {
     "browser-sync": "~2.18.2",
@@ -48,5 +48,6 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "bower": "^1.8.0"
-  }
+  },
+    "main": "app/app.js"
 }
