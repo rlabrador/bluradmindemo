@@ -35,7 +35,7 @@ Yes! We are available for hire. Visit [our homepage](http://akveo.com/) or simpl
 * AngularJS
 * Jquery
 * Charts (amChart, Chartist, Chart.js, Morris)
-* Maps (Google, Leaflet, amMap)
+* Maps (Google, Leaflet, amMap)P
 * etc
 
 License
