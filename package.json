@@ -44,7 +44,7 @@
   },
   "scripts": {
     "postinstall": "node_modules/.bin/bower install",
-    "start": "node server.js"
+    "start": "gulp serve"
   },
   "dependencies": {
     "body-parser": "^1.17.2",
