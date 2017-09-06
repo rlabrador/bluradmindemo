@@ -43,11 +43,11 @@
     "wrench": "~1.5.8"
   },
   "scripts": {
-    "postinstall": "node_modules/.bin/bower install"
+    "postinstall": "node_modules/.bin/bower install",
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.17.2",
     "bower": "^1.8.0"
-  },
-    "main": "app/app.js"
+  }
 }
